@@ -88,9 +88,9 @@ if _name_ == '_main_':
 ## MobileRobot Movement Image:
 
 ![robo](./img/robomaster.png)
-![output](./s.JPEG)
-![output](./end.JPEG)
-![output](./sc.JPEG)
+![output](https://github.com/Shaik-sameer-AIML/mobilerobot-openloopcontrol/blob/main/s.jpeg?raw=true)
+![output](https://github.com/Shaik-sameer-AIML/mobilerobot-openloopcontrol/blob/main/end.jpeg?raw=true)
+![output](https://github.com/Shaik-sameer-AIML/mobilerobot-openloopcontrol/blob/main/sc.jpeg?raw=true)
 
 
 
